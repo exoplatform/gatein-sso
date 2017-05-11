@@ -63,9 +63,9 @@
     <maven.compiler.source>1.8</maven.compiler.source>
 
     <!-- exo -->
-    <org.exoplatform.core.version>5.0.x-SNAPSHOT</org.exoplatform.core.version>
-    <org.exoplatform.ws.version>5.0.x-SNAPSHOT</org.exoplatform.ws.version>
-    <org.exoplatform.gatein.wci.version>5.0.x-SNAPSHOT</org.exoplatform.gatein.wci.version>
+    <org.exoplatform.core.version>5.0.0-M04</org.exoplatform.core.version>
+    <org.exoplatform.ws.version>5.0.0-M04</org.exoplatform.ws.version>
+    <org.exoplatform.gatein.wci.version>5.0.0-M04</org.exoplatform.gatein.wci.version>
 
     <!-- logging -->
     <version.commons-logging>1.1.1</version.commons-logging>
